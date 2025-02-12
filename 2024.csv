@@ -1,0 +1,37 @@
+SUBJECT CODE,SUBJECT NAME,CATEGORY
+CSIT110,Fundamental Programming with Python,CORE
+CSIT123,Computing and Cyber Security Fundamentals,CORE
+CSIT114,System Analysis,CORE
+CSIT115,Data Management and Security,CORE
+CSIT121,Object Oriented Design and Programming,CORE
+CSIT127,Networks and Communications,CORE
+CSIT128,Introduction to Web Technology,CORE
+CSCI235,Database Systems,CORE
+CSIT214,IT Project Management,CORE
+MATH255,Mathematics for Computing,CORE
+CSCI203,Algorithms and Data Structures,CORE
+CSIT226,Human Computer Interaction,CORE
+CSIT314,Software Development Methodologies,CORE
+CSCI251,Advanced Programming,Core Selection
+CSIT213,Java Programming,Core Selection
+CSIT321,Project,Capstone - Annual Session
+CSCI218,Foundations of Artificial Intelligence,Artificial Intelligence and Big Data
+CSCI323,Modern Artificial Intelligence,Artificial Intelligence and Big Data
+ISIT312,Big Data Management,Artificial Intelligence and Big Data
+CSCI316,Big Data Mining Techniques and Implementation,Artificial Intelligence and Big Data
+CSCI262,System Security,Cyber Security
+CSIT375,Artificial Intelligence for Cybersecurity,Cyber Security
+CSCI369,Ethical Hacking,Cyber Security
+CSIT302,Cybersecurity,Cyber Security
+CSCI262,System Security,Digital Systems Security
+CSCI361,Cryptography and Secure Applications,Digital Systems Security
+CSCI368,Network Security,Digital Systems Security
+CSIT328,Web Security,Digital Systems Security
+CSIT242,Mobile Application Development,Game and Mobile Development
+CSCI336,Interactive Computer Graphics,Game and Mobile Development
+CSCI356,Game Engine Essentials,Game and Mobile Development
+CSCI388,Virtual and Augmented Reality,Game and Mobile Development
+CSCI318,Software Engineering Practices & Principles,Software Engineering
+CSCI334,Software Design,Software Engineering
+CSIT377,Enterprise Web Development,Software Engineering
+ISIT219,Knowledge and Information Engineering,Software Engineering
